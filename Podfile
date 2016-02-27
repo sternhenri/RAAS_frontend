@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+pod 'AFNetworking', '~> 2.5.3'
+pod 'SVProgressHUD', '~> 1.0'
+pod 'HPGrowingTextView', '~> 1.1'
+pod 'TTTAttributedLabel', '~> 1.10'
+pod 'RKDropdownAlert', '~> 0.1.1'
+pod 'APAddressBook', '~> 0.1.5'
